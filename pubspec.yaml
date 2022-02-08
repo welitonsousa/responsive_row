@@ -1,6 +1,6 @@
 name: responsive_row
-description: A new Flutter package project.
-version: 1.0.0
+description: This lib is able to generate adaptive layouts according to the device size
+version: 1.0.1
 homepage: https://github.com/welitonsousa/responsive_row
 repository: https://github.com/welitonsousa/responsive_row
 issue_tracker: https://github.com/welitonsousa/responsive_row/issues
