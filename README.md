@@ -3,7 +3,7 @@
 This lib is able to generate adaptive layouts according to the device size
 
 <p align="center">
-    <img src="./assets/gif/responsive.gif" height="500"/>
+    <img src="https://github.com/welitonsousa/responsive_row/raw/main/assets/gif/responsive.gif" height="500"/>
 </p>
 
 
